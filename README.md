@@ -17,26 +17,7 @@
   </a>
 </p>
 <br>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 380 45" style="background-color: #00000000;" width="380px" height="45px">
-                <path id="path0">
-                            <!-- Single line -->
-                                <animate id="d0" attributeName="d" begin="0s;d1.end" dur="5000ms" fill="remove" values="m0,22.5 h0 ; m0,22.5 h380 ; m0,22.5 h380 ; m0,22.5 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
-        <textPath xlink:href="#path0">
-            &lt; 42 Madrid Student &gt;
-        </textPath>
-    </text>
-        <path id="path1">
-                            <!-- Single line -->
-                                <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms" fill="remove" values="m0,22.5 h0 ; m0,22.5 h380 ; m0,22.5 h380 ; m0,22.5 h0" keyTimes="0;0.8;0.8;1"/>
-                    </path>
-    <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="20" dominant-baseline="auto" x="0%" text-anchor="start">
-        <textPath xlink:href="#path1">
-            &lt; Just starting 2 program &gt;
-        </textPath>
-    </text>
-</svg>
+ <img src= "https://github.com/susanamadriz/susanamadriz/blob/main/sjuan-ma2.svg" >
 <br>
 <p align="center" width="300">
 <a href="https://github.com/susanamadriz" target="blank">
