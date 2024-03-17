@@ -17,7 +17,7 @@
   </a>
 </p>
 <br>
-<p align="center">
+<p align="center" width="300">
 <img src= "https://raw.githubusercontent.com/susanamadriz/susanamadriz/4885241f4538564ebe9517fc8c8b63bef7c8ee05/sjuan-ma2.svg" >
 </p>
 <br>
