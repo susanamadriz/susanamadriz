@@ -18,7 +18,7 @@
 </p>
 <br>
 <p align="center">
-<img src= "https://raw.githubusercontent.com/susanamadriz/susanamadriz/d095581e3bd820bbb08290a151ca54efccbb20e4/sjuan-ma2.svg" >
+<img src= "https://github.com/susanamadriz/susanamadriz/blob/main/sjuan-ma2.svg" >
 </p>
 <br>
 <p align="center" width="300">
