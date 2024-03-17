@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://pbs.twimg.com/profile_images/1330961591454617601/v4SL-rva_400x400.jpg" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/susanamadriz/susanamadriz/main/chachimad.png" />
    <h3 align="center">¡Hey 👋! Soy Susana Madriz 🎀</h3>
 </p>
 
