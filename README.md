@@ -1,6 +1,6 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://raw.githubusercontent.com/susanamadriz/susanamadriz/main/chachimad.png" />
-   <h3 align="center">¡Hey 👋! Soy Giorgina Madriz 🎀</h3>
+   <h3 align="center">¡Hey 👋! Soy Susana Madriz 🎀</h3>
 </p>
 
 <p align="center">
