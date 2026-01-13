@@ -23,6 +23,5 @@
 <br>
 <p align="center" width="300">
 <a href="https://github.com/susanamadriz" target="blank">
-   <img align="center" src="https://badge.mediaplus.ma/levi/sjuan-ma?1337Badge=off&UM6P=off" alt="sjuan-ma's 42 stats" />
 </a>
 </p>
